@@ -5,7 +5,7 @@
 <p> My main skills are HTML, CSS, JavaScript and React.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
     
-    <a href="https://www.instagram.com/runner_jinn/">
+<a href="https://www.instagram.com/runner_jinn/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/runner_jinn/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
