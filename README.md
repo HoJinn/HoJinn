@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/runner_jinn/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-none?style=flat&logo=Instagram&link=https://instagram.com/runner_jinn/"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/runner_jinn/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
