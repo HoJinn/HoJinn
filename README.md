@@ -12,7 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://developer-jinn.notion.site/Jinn-0404735b85274702ac3103bf34693e6e/">
+<a href="quizho93@gmail.com">
     <img 
         src="http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quizho93@gmail.com)](mailto:quizho93@gmail.com)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
