@@ -22,7 +22,7 @@
         src="http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quizho93@gmail.com)](mailto:quizho93@gmail.com)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  
+
 #
 <h3>🔥 Tech Stack 🔥</h3>
 <p>
@@ -36,7 +36,6 @@
    <img src="https://img.shields.io/badge/JPA-181717?style=flat&logo=JPA&logoColor=7952B3"/>
 </p>
 
-
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
@@ -44,7 +43,6 @@
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;&nbsp;
 
 </p>
-
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
