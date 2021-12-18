@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 <h3>🍀 Me 🍀</h3>
 
-<p>Hi There! I'm a back_End developer.</p>
-<p> My main skills are HTML, CSS, JavaScript and React.</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
+<p>Hi There! I'm a back_end developer.</p>
+<p>My main skills are JAVA.</p>
+<p>I'm a person, who study Steadily for be a good developer.🥰</p>
     
 <a href="https://www.instagram.com/runner_jinn/">
     <img 
