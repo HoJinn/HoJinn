@@ -34,6 +34,7 @@
    <img src="https://img.shields.io/badge/Springboot-white?style=flat&logo=Springboot&logoColor=#3776AB"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JSP/Servlet-%230db7ed?style=flat&logo=JSP/Servlet&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JPA-181717?style=flat&logo=JPA&logoColor=7952B3"/>
 </p>
 
