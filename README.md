@@ -57,6 +57,7 @@
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoJinn&show_icons=true&theme=vue )
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoJinn&layout=compact&theme=vue ) -->
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="left" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+    
 </div>
 
