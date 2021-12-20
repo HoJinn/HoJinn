@@ -1,7 +1,8 @@
 <div align="left">
 <h3>Me😀 </h3>
 
-<p>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">.  I'm a back_end developer.</p>
+<p>Hi There<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">.</p> 
+<p>I'm a back_end developer.</p>
 <p>My main skills are JAVA.</p>
 <p>I'm a person, who study Steadily for be a good developer.🥰</p>
     
