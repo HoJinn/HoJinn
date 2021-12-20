@@ -11,9 +11,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://developer-jinn.notion.site/Jinn-0404735b85274702ac3103bf34693e6e/">
+<a href="https://developer-jinn.notion.site/Jinn-b99d082a3a4346278b5794a950b911e0">
     <img 
-        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://developer-jinn.notion.site/Jinn-0404735b85274702ac3103bf34693e6e/"
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://developer-jinn.notion.site/Jinn-b99d082a3a4346278b5794a950b911e0"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
